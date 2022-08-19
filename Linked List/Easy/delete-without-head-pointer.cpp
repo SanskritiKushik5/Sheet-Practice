@@ -9,5 +9,5 @@ class Solution
        del->next = temp->next;
        free(temp);
     }
-
+ 
 };
